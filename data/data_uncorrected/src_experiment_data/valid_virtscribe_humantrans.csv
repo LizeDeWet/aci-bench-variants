@@ -1,0 +1,462 @@
+dataset,id,dialogue,note
+virtscribe,VS014,"[doctor]  Today I'm seeing Christina Cooper. Her date of birth is July 1, 1954. Uh, MS. Cooper is a new patient who is referred by Diane Nelson for a long-standing iron deficiency anemia.
+[doctor]  Hello, how are you?
+[patient]  I'm good, thank you.
+[doctor]  So tell me what brings you in today.
+[patient]  Recently I tried to donate blood around December I think and they told me I was anemic, which is something I've been dealing with for a while, so it's not the first time I've been told I'm anemic.
+[doctor]  or how have you been feeling in general with this?
+[patient]  Not great. I have been feeling fatigued off and during the day and even feverish with chills at times. When I try to be active, I like I can't catch my breath and I feel like I'm wheezing. I've had some headaches too, which is not like me.
+[doctor]  Okay. Are there any other symptoms?
+[patient]  I've been noting some chilling sensations. I also get cold so easily. It's annoying. I feel like I have to really bundle up. I don't know if this is related, but my anxiety and depression feel like it has been getting worse lately. I feel like a mess.
+[doctor]  Sounds like you're not feeling great, obviously. And I'm glad you came to see us. We're certainly going to try to figure this out and figure out what's going on. But it sounds like you've been dealing with this anemia for a long time.
+[patient]  Yeah, I've been a neem since I was 13 years old.
+[doctor]  Right. So, why do your doctors think you're anemic? Do you have a history of heavy periods?
+[patient]  while I did have heavy periods until I had a historyectomy in 1996. But no, they have not told me why they think I'm anemic, which is frustrating honestly.
+[doctor]  Yeah, I can imagine that is. Um, let's see if we can help though. Since you had your hysterectomy or periods, of course, are no longer the issue. Um, when was your last colonoscopy?
+[patient]  about five to six years ago.
+[doctor]  And was it relatively a normal exam? Did you have any polyps?
+[patient]  No, they said they'd see me in 10 years.
+[doctor]  Well, that's good news.
+[patient]  Yeah, I agree.
+[doctor]  Do you have a pacemaker or defibrillator or have sleep apnea or use oxygen at night?
+[patient]  No.
+[doctor]  Alright, do you ever drink alcohol?
+[patient]  Yeah, but only once or twice a year.
+[doctor]  Okay. Are you taking any supplements such as iron or vitamin B12?
+[patient]  I already started taking my ironed pills, which I have not taken in about a year.
+[doctor]  All right, and what are you taking?
+[patient]  I'm taking 25 milligram tablets twice daily.
+[doctor]  Okay, and that's the the ferrous sulfate.
+[patient]  Yeah, that's it. I take one in the morning and one in the evening.
+[doctor]  Okay. Anything else?
+[patient]  Yeah, I take vitamin B12 just the over the counter stuff.
+[doctor]  Okay, very good. Alright, well let's go ahead and take a look and see what's going on.
+[patient]  Sounds good. Thank you.
+[doctor]  Of course, you'll hear me talk through your exam so that I get all the information documented.
+[patient]  Okay.
+[doctor]  All right, so use my general physical exam template. I will start by listening to your heart and lungs.
+[patient]  Okay.
+[doctor]  Alright, next I'd like you to lay back so I can examine your abdomen.
+[patient]  Okay.
+[doctor]  Is there any tenderness where I'm pressing?
+[patient]  No.
+[doctor]  Okay, you can sit up. So your physical exam is normal without any significant findings. All right, MS. Cooper, often when we initially see anemia and your host of symptoms, we suspect internal bleeding.
+[patient]  Is that why they want me to have another upper endoscopy?
+[doctor]  Actually, it would be an upper endoscopy and a colonoscopy, but yes, likely that's the reason why.
+[patient]  Lovely.
+[doctor]  Yeah. Unfortunately, our cameras do not meet all the way in the middle. So if those tests come back fine, then we'll have you swallow a pill camera to take pictures as it moves through your system.
+[patient]  Okay.
+[doctor]  We may not need to, but it's just the first thing we can do to make sure that you're not losing blood. The second thing we can do is have you see a hematologist. They will tell us if you need to give any to give you any intravenous iron or maybe something to help your body store the iron better.
+[patient]  All right.
+[doctor]  So let's go ahead, get your upper endoscopy and colonoscopy scheduled.
+[patient]  Okay.
+[doctor]  Have you ever had any issue with sedation in the past?
+[patient]  No, I was just sleepy afterwards.
+[doctor]  Okay, well we will give you a bowel prep to clean out your bowels ahead of time. If we do these tests and they are normal, like I said, then we will consider that capsule endoscopy.
+[patient]  Okay, something a plan.
+[doctor]  Alright, so after that you'll be all done and we will send you to the hematologist. Additionally, I'm going to need you to start taking your iron pills with orange juice. The vitamin C will help you absorb the iron better. Do this for about eight to 12 weeks and then we can reassess your blood work.
+[patient]  Okay, that sounds great.
+[doctor]  All right, well I think we have our plan. On your way out, stop by and schedule your upper endoscopy and see colonoscopy. Uh, we will send a referral to Dr. Flores who is the hematologist, so schedule that appointment. Um, here are your instructions for the pre, uh, the bowel prep. Uh, call us if you have any questions or worsening symptoms. We'll be happy to help you.
+[patient]  Thank you.
+[doctor]  You're welcome. Have a great day. Have a great day, MS. Cooper.
+[patient]  You too.
+[doctor]  All right, this is Christina Cooper, plus and 65-year-old female who was diagnosed with iron deficiency anemia in 12-2019 and W and was unable to donate blood. Her follow-up blood work on January 20th, 20 was revealed a low hemoglobin, stable hematocrit and normal iron laps, although Faradon was low. She was taking phyrasulfate, 300, 20-fill, 25 milligrams by mouth. I've asked her to continue each dose with vitamin C found in orange juice for the next 12 weeks, then recheck to the CBC, iron, Faradon, B12, and folate. Our referral was sent to her hematologist. We will plan for an EGD and a colonoscopy to assess for potential sources of anemia or GI bleed. If this is inconclusive, capsule andoscopy will be considered. Thanks.","CHIEF COMPLAINT
+
+Iron deficiency anemia.
+
+HISTORY OF PRESENT ILLNESS
+
+Mrs. Christina Cooper is a 65-year-old female who presents with a long-history of iron deficiency anemia.
+
+The patient reports she has been living with anemia since she was 13 years old. She attempted to donate blood on 12/2019 but was unable to due to her anemia. She has a history of heavy menstruation and a hysterectomy in 1996. She completed a colonoscopy 5-6 years ago with nonsignificant findings. She denies having a pacemaker, defibrillator, sleep apnea, or using oxygen.
+
+Mrs. Cooper reports a myriad of symptoms, stating she feels fatigued often during the day, feverish with chills at times, and during activity feels she cannot catch her breath and some wheezing is present. She has been having some headaches which is uncommon for her. Additionally, she is noticing tingling sensations, cold sensitivity, and her anxiety and depression have worsened.
+
+PAST HISTORY
+
+Surgical
+Hysterectomy, 1996.
+
+Procedures
+Colonoscopy 5-6 years ago.
+
+SOCIAL HISTORY
+
+Drink’s alcohol 1-2 times per year.
+
+CURRENT MEDICATIONS
+
+Ferrous Sulfate 25 mg tablet twice per day (1 in the morning, 1 in the evening), Vitamin B12 OTC.
+
+PHYSICAL EXAM
+
+Gastrointestinal
+Abdomen non-tender.
+
+ASSESSMENT
+
+• Iron deficiency anemia
+
+Mrs. Cooper is a 65-year-old female who was diagnosed with iron deficiency anemia in 12/2019 and was unable to donate blood. Her follow-up blood work in 01/2020 revealed a low hemoglobin, stable hematocrit, and normal iron labs, although, ferritin was low. She has been taking ferrous sulfate 325 mg by mouth.
+
+PLAN
+
+I have asked her to continue each ferrous sulfate dose with vitamin C found in orange juice for the next 12 weeks then recheck CBC, iron ferritin, B-12, and folate. A referral was sent for her to see a hematologist. We will plan for EGD and colonoscopy to assess for potential sources of anemia or GI bleed. If this is inconclusive, capsule endoscopy can be considered.
+
+INSTRUCTIONS
+
+Schedule upper endoscopy, colonoscopy and appointment with hematologist. Return to the clinic if symptoms worsen."
+virtscribe,VS024,"[doctor]  Patient Bruce Ward, date of birth May 21, 1969. Please use my neuro-consult template. This is a 52-year-old male with DIA, newly diagnosed pituitary lesion. The patient is seen in consultation at the request of Dr. Henry Howard for possible surgical intervention. Mr. Ward presented his primary care provider, Dr. Howard, on March 1, 21 complaining of worsening headaches over the past few months. He denied any trouble with headaches in the past. His past clinical history is unremarkable.
+[doctor]  Worked out for worsening headaches was initiated with brain MRI and serology, where pituitary lesion was incidentally discovered. I personally reviewed the lab stated March 3rd, 21 including CBC, UNSE, uh, coagulation and CRP. All were normal. Pituitary hormone profile demonstrates a low TSH. All other results were normal. Um, I personally reviewed pertinent radiology studies, including MRI for the brain with contrast from March 4th, 21. The MRI reveals a pituitary lesion with elevation and compression of the optic chiasm. The ventricles are normal in size and no other abnormalities are low, are noted.
+[doctor]  Hello, Mr. Ward. Nice to meet you. I'm Dr. Flores.
+[patient]  Hi Doc, nice to meet you.
+[doctor]  I was just reviewing your records from Dr. Howard, and he's referred you because the workup for headaches revealed a mass on your pituitary gland. I did review your MRI images, and you have a significant mass there. Can you tell me about the issues you've been experiencing?
+[patient]  Yes, sure, so I'm really getting fed up with these headaches. I've been trying my best to deal with them, but they've been going on for months now, and I'm really struggling.
+[doctor]  Where are the headaches located and how would you describe that pain?
+[patient]  Located behind my eyes, it's like a dull nagging ache.
+[doctor]  Okay. Was the on-set gradual or sudden?
+[patient]  Well, it started about three months ago, and they've been getting worse over time. At first, it was like three out of ten severity, and it just gradually worsened. And now, it's about six out of ten severity. The headaches do tend to be worse in the morning, and it feels like a dull ache behind the eyes. The last a few hours at a time, nothing makes them better or worse.
+[doctor]  Okay. Can you tell me if the pain radiates or if you have any other symptoms? Specifically feeling sick fever, rashes, next stiffness, numbness, weakness, passing out?
+[patient]  No, I haven't been sick or felt sick. Can't recall a fever or any kind of rash. No, no neck issues, no numbness, no tingling, and I've never passed out of my life. But for some reason recently, I seem to be bumping into door frames.
+[doctor]  Okay. Have you noticed any change in your vision or with your balance?
+[patient]  I don't think so. My eyes were checked in the fall.
+[doctor]  Okay, let's see. Do you have any other medical problems that you take medicine for?
+[patient]  No, I don't have any medical problems, and I don't take any medicines. I tried to tie on all a few times for the headaches, but it didn't work, so I stopped.
+[doctor]  I see. Anyone in your family have any history of diseases?
+[patient]  I was adopted, so I really have no idea.
+[doctor]  Okay, what kind of work do you do and are you married?
+[patient]  I work as a computer programmer and I've been married for 25 years. We just bought a small house.
+[doctor]  That's nice. Do you drink any alcohol, smoke, or use recreational drugs?
+[patient]  Nope, I don't do any of those and never have.
+[doctor]  Okay, well let me take a good look at you. Now you'll hear me calling out some details as I perform the examination. These will be noted for me in your record and I'll be happy to answer any questions you have once we're done.
+[patient]  Sound good doc.
+[doctor]  All right, the patient is alert, oriented to time, place, and person. Effect is appropriate and speeches fluent. Craneal nerve examination is grossly intact. No focal motor or sensory deficit in the upper or lower extremities. Visual acuity and eye movements are normal. Pupils are equal and reactive. Visual field testing reveals by temporal hemionopia, and color vision is normal.
+[doctor]  All right, Mr. Ward. I'm going to review these pictures from the MRI with you. Now this appears to be a benign pituitary adenoma, but there's no way to be sure without sending the removed adenoma to pathology to make the diagnosis, which we will do. Here you can see it's a well-defined mass, and it's pressing right here on what we call the optic chiasm. And today when I was having you look at my fingers, you couldn't see them off to the sides. That's what we call by temporal hemionopia. And explains why you have been bumping into door frames.
+[patient]  Yeah, I never noticed that I couldn't see out of the side until you did that test and you closed when I with both eyes. I really couldn't tell.
+[doctor]  No, because you're having this vision loss from the mass compressing the optic chiasm. The only option we have is to do surgery.
+[patient]  Okay, I understand. Do you think I'll regain my vision?
+[doctor]  Well, there's no guarantees, but it is a possibility. I'm going to refer you to the eye doctor for a full exam, and they'll do what's called visual field test. This will map our peripheral vision or side vision prior to surgery. And we can monitor after surgery to see if your vision is improving.
+[patient]  All right.
+[doctor]  And let's discuss the surgery a little more. We would do what's called a transphenoidal approach to do the surgery. This is minimally invasive, and we go through the sphenoid sinus. There are some risks I have to inform you of. Risk of anesthesia, including but not limited to the risk of heart attack, stroke and death. Risk of surgery, including infection, need for further surgery, wound issues such as spinal fluid leak or infection, which may require long prolonged hospitalization or additional procedure. Seasure, stroke, permanent numbness, weakness, difficulty speaking, or even death.
+[patient]  Well, I guess we have to do it regardless.
+[doctor]  Okay, so I will have you see our surgery scheduler, Deborah, on the way out to get you set up. We will get this scheduled fairly quickly, so I don't want you to be alarmed. She'll also get you set up today or tomorrow to have the visual field test, and you may not be able to see the eye doctor until after surgery. But we have the pre-surgery visual field test for comparison after surgery.
+[patient]  Okay, I'll look forward to these headaches going away. I never thought it could be something like this going on.
+[doctor]  Yeah, come this way. We'll get your things lined up. Please call if you think of any questions.
+[patient]  Thanks, doctor.
+[doctor]  Diagnosis will be pituitary adenoma. Mr. Ward is a very pleasant 52-year-old male who has been nine appearing pituitary adenoma, incidentally discovered during workup for worsening headaches. He is symptomatic with clinical and radiographical evidence of optic chiasmal compression, therefore surgical intervention to X-size and decompress the pituitary fossa is indicated. End of note.","CHIEF COMPLAINT
+
+Pituitary lesion.
+
+HISTORY OF PRESENT ILLNESS
+
+Bruce Ward is a 52-year-old male with a pituitary lesion. The patient is seen in consultation at the request of Dr. Henry Howard for possible surgical intervention.
+
+The patient presented to his primary care provider, Dr. Howard, on 03/01/2021 complaining of worsening headaches over the past few months. He denied any trouble with headaches in the past. Further work up of headaches with MRI of the brain revealed the pituitary lesion.
+
+Mr. Ward reports headaches started about 3 months ago, at which point they were around 3 out of 10 in severity. They have gradually worsened over time and now he rates them at about 6/10. The headaches do tend to be worse in the morning and feel like a dull ache behind the eyes. They tend to last a few hours at a time, and nothing makes them particularly worse or better. Tylenol failed to improve headaches.
+
+The patient endorses that recently he has been bumping into door frames, but no obvious problems with his balance or vision. He denies any recent sickness or feeling sick and negative for fever, rash, paresthesia, weakness, neck stiffness, or syncope.
+
+PAST HISTORY
+
+Medical
+Newly diagnosed pituitary lesion.
+
+FAMILY HISTORY
+
+No known family history; adopted.
+
+SOCIAL HISTORY
+
+Employment Status: Works as a computer programmer.
+Marital Status: Married for 25 years.
+Living Arrangement: Lives with wife, recently purchased a new house.
+Alcohol Use: None.
+Tobacco Use: Non-smoker.
+Recreational Drugs: None.
+
+PHYSICAL EXAM
+
+Neurological
+Patient alert, oriented to person, place, and time, affect appropriate and speech fluent. Cranial nerve examination grossly intact. No focal motor or sensory deficit in the upper or lower extremities.
+
+Eyes
+Visual acuity and eye movements are normal. Pupils are equal and reactive. Visual field testing reveals bitemporal hemianopia. Color vision is normal.
+
+RESULTS
+
+Labs reviewed, 03/03/2021: CBC, U&Es, coagulation, and CRP are all normal. Pituitary hormone profile demonstrates a low TSH, all other results were normal.
+
+Independent review and interpretation of MRI brain, 03/04/2021: The MRI reveals a pituitary lesion with elevation and compression of the optic chiasm. The ventricles are normal in size and no other abnormalities are noted.
+
+ASSESSMENT
+
+• Pituitary adenoma
+• Bitemporal hemianopia
+
+Mr. Ward is a very pleasant 52-year-old male who has a benign appearing pituitary adenoma discovered on work up for worsening headaches. There is clinical and radiographical evidence of optic chiasmal compression, examination today revealed a bitemporal hemianopia. Radiographically this appears to be a benign pituitary adenoma but that there was no way to be sure without a pathological diagnosis. Surgical intervention to excise and decompress the pituitary fossa is indicated given optic chiasmal compression.
+
+PLAN
+
+Pituitary adenoma.
+We discussed the general indications for surgical intervention. The risks, benefits to trans-sphenoidal resection were explained to the patient. The risks of anesthesia including but not limited to the risks of heart attack, stroke, and death. The risks of surgery including infection, need for further surgery, wound issues (such as spinal fluid leak or infection) which may require prolonged hospitalization or additional procedure, seizure, stroke, permanent numbness, weakness, difficulty speaking, or death. The patient voiced understanding and wishes to proceed with trans-sphenoidal resection of the adenoma.
+
+Bitemporal hemianopia.
+We will have the patient scheduled this week to have visual field testing with ophthalmology. The preoperative visual field will serve as baseline for comparison of postoperative visual field testing to monitor for improvement in the bitemporal hemianopia. Additionally, we discussed that unfortunately no guarantees could be given that his vision would return.
+
+INSTRUCTIONS
+
+• Refer to ophthalmology for baseline visual field testing.
+• Schedule trans-sphenoidal resection of pituitary adenoma.
+"
+virtscribe,VS015,"[doctor]  Next is Betty Hill. A date of birth is February 21, 1968. She has a past medical history of uterine fibroids and anemia. She's a new patient with a referral from the error of esophageitis. I reviewed our records from the ER, including the normal cardiac workup, and we're about to go in and see her now. Good morning. You miss Hill?
+[patient]  Good morning. Yes, that's me.
+[doctor]  Hey, I'm Dr. Sanders. It's nice to meet you.
+[patient]  Nice to meet you too.
+[doctor]  So tell me about what brings you in today.
+[patient]  Well, I really needed to see you three months, three months ago, but this was your first available appointment. When I called to make the appointment, I was having chest pains, but it stopped after four days, and I haven't had any since then.
+[doctor]  Okay. When did these four days of chest pain occur?
+[patient]  Um, early October.
+[doctor]  of 2020 correct?
+[patient]  Yes.
+[doctor]  Okay, can you think of anything that might have caused the chest pain? Did you wake up with it?
+[patient]  No, it just it randomly. I tolerated it for four days, but then how to go to the emergency room because nothing I did relieved it. They did a bunch of testing and didn't find anything.
+[doctor]  Okay. Can you point to the area of your chest where the pain was located?
+[patient]  Well, it was here in the center of my chest, right behind my breastbone. It felt like I was having a heart attack. The pain was really sharp.
+[doctor]  Did they prescribe you any medications in the air?
+[patient]  No, they ran an EKG and did blood tests, but like I said, everything was normal.
+[doctor]  Okay. I see.
+[patient]  They thought it was something to do with the GI system. So that's why they refer me here.
+[doctor]  Interesting. Do you remember having any heartburn or indigestion at at the time?
+[patient]  Maybe I don't think I've ever had heartburn, so I'm not sure what that feels like.
+[doctor]  Was the pain worse with eating or exercise?
+[patient]  Yes, with eating.
+[doctor]  Okay. Any difficulty swallowing?
+[patient]  mm i did
+[doctor]  Okay, and that's also resolved since the initial episode three months ago?
+[patient]  Yes, thankfully, the chest pain and swallowing problem got better about three days after I went to the air. But I just feel like there's something wrong.
+[doctor]  Okay. So how has your weight been?
+[patient]  I've been trying to lose weight.
+[doctor]  That's good. Any in issues with abdominal pain?
+[patient]  Oh no.
+[doctor]  Okay. Good. And how about your bowel movements? Are they okay?
+[patient]  They're normal.
+[doctor]  All right, are you aware of any family history of GI problems?
+[patient]  I don't think so.
+[doctor]  Have had you had any surgeries on your abdomen or gallbladder or appendix?
+[patient]  Yes, it took my gall bladder out several years ago.
+[doctor]  Okay, if you want to lay down here on the table for me and let's take a look at you.
+[patient]  Okay.
+[doctor]  So when I push on your lower belly do you have any pain or does it feel tender?
+[patient]  No.
+[doctor]  Okay. How about up here in your upper abdomen?
+[patient]  Yes, it it hurts a little.
+[doctor]  Okay, and even when I press lightly like this...
+[patient]  Yes, just a little uncomfortable.
+[doctor]  Okay. Does it hurt more when I press over here on the left or over here on the right? Or is it about the same?
+[patient]  I'd say it's about the same.
+[doctor]  Okay, so we'll say you have some mild tenderness to light palpation in the upper abdominal quadrants, but everything on your exam looks normal and looks good.
+[patient]  Okay, good.
+[doctor]  So let's talk about your symptoms real quick. Obviously, with a chest discomfort, we worry about heart issues, but I'm reassured that those were ruled out with all the testing they did in the ear. Other potential causes could be anxiety, esophageitis, which is irritation of esophagus, but typically with these, but typically these cause the pain that would last for a long time rather than that isolated incident like you had. It's also possible that you had intense heartburn for a few days.
+[patient]  Well, since you mentioned anxiety, I was going through a really stressful job transition right around the time this happened.
+[doctor]  Okay, that's good to know. So stress from this could be, could be, could be very well have contributed to your condition.
+[patient]  Okay.
+[doctor]  So we could do an EGD or upper endoscopy to take a look at your esophagus and stomach. This would allow us to look for esophagitis. But your symptoms occurred three months ago and you haven't had any additional episodes. So likely if it were esophagitis, it's already healed by the point, by this point, and we wouldn't be able to see anything. The other option is just to continue to monitor for any additional symptoms at which point we could do the EGD, with you being asymptomatic for so long right now. I'm comfortable with that option. But what do you think?
+[patient]  I like to hold off on the EGD and wait to see if I have more symptoms.
+[doctor]  That sounds good. So you can call the office if you have any additional episodes of pain or any other symptoms you're concerned about. If that happens, we'll get you scheduled for an EGD to take a look. If not, you can follow up with me. Follow up with me as needed for any other GI complaints.
+[patient]  Okay.
+[doctor]  All right, if you don't have any questions for me, I'll walk you out to the checkout desk.
+[patient]  No, that's it. Thank you.
+[doctor]  You're welcome. Right this way. All right. In assessment, please summarize the patient's history briefly, and let's list her possible etiology such as GERD, dyspepsia, esophageitis, musculoskeletal etiologies, and anxiety. Suspect she had an anxiety attack related to her job transition, plus or minus a contribution from her musculoskeletal etiologies. And in the plan, include our discussion of the EGD versus Mondering, monitoring for symptom. Patient elected to self-monitor her symptoms, and we'll call with any recurrence or change. Thanks.","CHIEF COMPLAINT
+
+Esophagitis.
+
+HISTORY OF PRESENT ILLNESS
+
+Betty Hill is a 53 y.o. female who presents to clinic today for a new patient evaluation of suspected esophagitis. The patient was referred from the emergency department where she was seen in early 10/2020 following 4 days of chest pain. The pain has resolved but she kept this appointment to discuss the original 4-day episode.
+
+The patient describes her chest pain in early 10/2020 as sharp and localized behind the sternum. She states that it felt like a heart attack and the onset was sudden. The pain was exacerbated by eating and accompanied by dysphagia. The patient is not able to say whether she had heartburn as she has never experienced heartburn before and is unsure what it feels like. When asked about potential triggers, the patient identifies that she was experiencing a lot of stress at that time due to a job transition. She was able to tolerate the chest pain and dysphagia for 4 days but reports that nothing she tried relieved her symptoms. She then presented to the emergency department and underwent labs and EKG. All results came back normal from these tests. She was not prescribed any medications in the emergency department but was given a referral to me for suspected esophagitis. Her chest pain and dysphagia resolved spontaneously approximately 3 days after her emergency department visit and has not recurred.
+
+The patient denies unintentional weight loss, weight gain, abdominal pain, constipation, and diarrhea. She states she is trying to lose weight.
+
+PAST HISTORY
+
+Medical
+Uterine fibroids.
+Anemia.
+
+Surgical
+Cholecystectomy.
+
+FAMILY HISTORY
+
+None reported.
+
+REVIEW OF SYSTEMS
+
+• Cardiovascular:  Positive for chest pain.
+• Gastrointestinal:  Positive for difficulty swallowing.
+• Psychiatric:  Positive for stress.
+
+PHYSICAL EXAM
+
+Gastrointestinal
+Mild tenderness to light palpation in the upper abdominal quadrants.
+
+RESULTS
+
+The patient’s emergency department records from her 10/2020 visit were reviewed, including the normal cardiac workup.
+
+ASSESSMENT
+
+The patient presents today following a visit to the emergency department in early 10/2020 for 4-days of sharp chest pain, made worse by eating, and dysphagia. Notably, the patient was experiencing higher levels of stress than normal for her at that time due to a job transition. Her cardiac evaluation in the emergency department was normal and she was referred to me for suspected esophagitis. The patient’s pain and associated dysphagia spontaneously resolved 3 days after her emergency department visit and has not recurred. Possible etiologies of her chest pain and dysphagia include GERD, dyspepsia, esophagitis, musculoskeletal etiologies, and anxiety. Based on her history today, I suspect she had an anxiety attack related to her job transition, plus or minus a contribution from musculoskeletal etiologies.
+
+Non-cardiac chest pain.
+
+Suspected etiology of anxiety with or without underlying musculoskeletal etiology.
+
+PLAN
+
+• We discussed the role of an EGD in evaluating her prior symptoms. Given her current asymptomatic status, I am comfortable foregoing the EGD for now in lieu of continued monitoring for symptom recurrence. The patient agreed to notify my office if her symptoms return at which time, we could schedule the EGD. The patient is agreeable to this plan.
+
+INSTRUCTIONS
+
+• Self-monitor for symptom recurrence and notify my office if this occurs.
+• Follow up as needed."
+virtscribe,VS021,"[doctor]  Hello.
+[patient]  Hi.
+[doctor]  I'm Dr. Evelyn, one of the kidney doctors. It's good to meet you guys.
+[patient]  It's nice to meet you also.
+[doctor]  Yeah. So, I was reading about this syndrome that I actually have never heard of.
+[patient]  Yeah, me too.
+[doctor]  I don't think it's very common.
+[patient]  Definitely not. It's see pretty rare.
+[doctor]  So
+[doctor]  Can you start at the beginning? I know she's a twin, so are these your first two babies?
+[patient]  No, I have a son also who is nine. He also has autism.
+[doctor]  Okay.
+[patient]  And when the twins were born, Catherine, she was about 4 pounds, 8 ounces. And her twin was a bit smaller, at 3 pounds, 13 ounces.
+[patient]  Catherine, she was doing fine. She just had problems with eating, where she would stop breathing when she was eating.
+[doctor]  like premium type stuff?
+[patient]  Ah, yeah. She just had a hard time regulating her temperature, but she did fine. She does have a GI doctor because she has reflex really bad. She also had a dietician who told us to take her off cow's milk, which we did. And then she has seen an allergist and also a neurologist who diagnosed her with this syndrome because she still doesn't walk and she wasn't sitting by herself a year old.
+[doctor]  Yeah.
+[patient]  But so now she is crawling and she is trying to take steps, so think she's doing pretty good.
+[doctor]  Good. Is she in therapy?
+[patient]  She is in therapy. She's in feeding therapy, occupational therapy, and also physical therapy.
+[doctor]  Awesome. Okay.
+[patient]  And we also have speech therapy, who is going to be starting within the next couple of weeks.
+[doctor]  That's great.
+[patient]  So, she has a lot of therapies. We have also seen an orthopedic and an ophthalmologist. I can never say that. We have seen everything, really.
+[doctor]  and Audiology 2, right?
+[patient]  Yes.
+[doctor]  Yow-ow.
+[patient]  Yeah, it has definitely been a whirlwind of stuff. When we saw the geneticist, she told us that sometimes people with this syndrome, they have trouble with their kidneys. That they might actually fuse into one. She also said sometimes they have problems with their legs, so that was why we saw ortho.
+[doctor]  Okay. Okay.
+[patient]  So we have seen everybody, really. We are just here to make sure that her kidneys are looking good right now.
+[doctor]  Yeah, okay. So, um, tell me about how many wet diapers she has in a 24-hour period.
+[patient]  She has a lot.
+[doctor]  so like normal 8 to 10 or like 20.
+[patient]  Yeah, it's around 8 to 10.
+[doctor]  Okay. Great.
+[patient]  Yeah, she seems to pee a lot, and it feels like she drinks a lot too.
+[doctor]  That's perfect.
+[patient]  and she used to only drink milk and then I took her off dairy milk. So when I say milk, I actually mean, you know, ripple pea protein milk.
+[doctor]  Sure yeah.
+[patient]  So I give her that milk, water now that she's used to it, and sometimes water with just a little bit of juice. So I do feel like she's drinking a lot better now.
+[doctor]  That's great. And she's how old now.
+[patient]  She'll be 2MO2 next month.
+[doctor]  Okay. Is her twin a boy or a girl?
+[patient]  She's a girl.
+[doctor]  Okay, and how she doing.
+[patient]  She's doing really good. She's running around, and she doesn't have any problems.
+[doctor]  All right, is she bigger than her or the same size?
+[patient]  They're about the same size. They're able to wear the same clothes, so.
+[doctor]  Okay.
+[patient]  I don't even think she's a pound have heavier, actually.
+[doctor]  Yeah. Yeah.
+[patient]  But she's a little bit taller than her, um, Catherine. She's just as a little shorter and chunkier, but I think that's a part of her syndrome.
+[doctor]  Yeah. Yeah, I was reading all the things associated with the syndrome. It sounds like we're looking for continual congenital anomalies why of the kidney and urinary tract, which is basically something is wrong with the plumbing.
+[patient]  Okay.
+[doctor]  So the only way to know that is to do a kidney ultrasound.
+[patient]  Okay, that sounds okay.
+[doctor]  Okay. Let me put that into the system and then downstairs they can do the ultrasound.
+[patient]  Alright, thank you.
+[doctor]  Okay, yeah. Where do you all live?
+[patient]  Uh, we live in Dallas.
+[doctor]  Okay. Anybody in the family with kidney failure, dialysis or transplant?
+[patient]  No.
+[doctor]  Okay, so let's get your ultrasound done and we'll see how it goes.
+[patient]  Alright, that sounds good.
+[doctor]  Alright, let me take a quick look at her.
+[patient]  Sure.
+[doctor]  All right, please use my physical exam template. I want to take a quick listen to her heart and lungs. I'll look in her ears too. And she can sit. She can just sit on your lap.
+[patient]  Okay.
+[doctor]  Alright, that's it.
+[patient]  Alright, that wasn't too bad.
+[doctor]  Hmm, so let's complete the ultrasound today. I'll call you with the results. If it's normal, you won't need to see me again, but if it's abnormal, you can see me in KenaSaw.
+[patient]  Okay, that sounds good.
+[doctor]  Okay, we'll determine what the next steps are if there are any after we see her results.
+[patient]  Alright, sounds good. Thank you.
+[doctor]  You're welcome. The nurse will be in to have you complete some paperwork and give you instructions for the ultrasound. We'll talk soon.
+[patient]  Alright. Thank you, and have a good day.
+[doctor]  You too.
+[doctor]  All right, physical exams show the well-nourished female who is slightly fussy when examined. Eyes are small peering. She has mild hypotonia of the lower extremities in her arms. Normal external female genitalia.
+[doctor]  assessment and plan. Catherine is a 22-month-old former 34- and 3-week-old twin with Smith-Magnus syndrome. Several organ systems can be affected by this chromosomal deletion syndrome. Congenital anomalies of the kidney and urinary tract have been reported in the literature.
+[doctor]  We will obtain the screening of the kidneys by ultrasound today. If there are abnormalities on the kidney ultrasound, we will determine next steps and future follow-up. The family lives in Dallas, Georgia, so her follow-up should be at the town center location.
+[doctor]  End of recording.","CHIEF COMPLAINT
+
+Renal screening tests.
+
+HISTORY OF PRESENT ILLNESS
+
+Katherine Lopez is a 22-month-old female, born at 34 weeks +3 days gestation, diagnosed with the rare Smith-Magenis syndrome and associated global developmental delays. She was referred to nephrology by genetics who recommended renal screening tests. At birth, the patient weighed 4 pounds 8 ounces, exhibited difficulties during eating where she would stop breathing, and challenges regulating her body temperature; determined to be typical issues associated with premature birth. The patient has seen many specialists, including GI for severe reflux, a dietitian who recommended discontinuing consumption of cow’s milk, and a neurologist who diagnosed her with Smith-Magenis syndrome. Additionally, she has been seen by a geneticist, orthopedist, ophthalmologist, and audiologist. The patient is not ambulatory, did not sit up unassisted until 1 years old, and is currently crawling and attempting to take steps. She will be starting speech therapy in the next few weeks, and currently she is in occupational, feeding, and physical therapy. The geneticist informed the patient's mother that patients with Smith-Magenis syndrome usually have kidney issues where “the kidneys fuse into one” and issues with their legs.
+
+The patient has approximately 8 to 10 wet diapers in a 24-hour period. Her mother notes that she is doing better with drinking fluids and she urinates “a lot”. The patient drinks Ripple Pea Protein milk instead of cow’s milk, water and water mixed with a small amount of juice. Her twin sister is approximately the same size, and their weight is essentially the same, she is healthy, and the mom denies any known health concerns or diagnoses. The mom states that Katherine is shorter and seems chubbier related to her syndrome. She also has a 9-year-old brother who is diagnosed with autism.
+
+BIRTH HISTORY
+
+Twin gestation. Birth weight 4 pounds 8 ounces.
+
+PAST HISTORY
+
+Medical
+Smith-Magenis syndrome.
+
+SOCIAL HISTORY
+
+Patient accompanied to appointment by her mother.
+Sibling: 9-year-old brother and twin sister.
+
+FAMILY HISTORY
+
+Brother: 9 years old, positive for autism.
+Twin sister: absence of Smith-Magenis syndrome, no known health conditions.
+No known family history of genetic conditions, kidney failure, dialysis, or kidney transplant.
+
+PHYSICAL EXAM
+
+Constitutional
+Well-nourished female, slightly fussy when examined.
+
+Eyes
+Presences of microphthalmia.
+
+Genitourinary
+Normal external female genitalia.
+
+Musculoskeletal
+Extremities: Presence of mild hypotonia of lower extremities and the arms.
+
+ASSESSMENT
+
+• Smith-Magenis syndrome.
+Katherine is a 22-month-old former 34+3-week-old twin with Smith-Magenis syndrome.
+Several organ systems can be affected by this chromosomal deletion syndrome and congenital anomalies of the kidney and urinary tract have been reported in the literature.
+
+PLAN
+
+We will obtain a kidney ultrasound screening today. If there are abnormalities on the kidney ultrasound, we will determine the next steps and future follow-up. The family lives in Dallas, Georgia, so her follow-up should be at the Town Center location.
+
+INSTRUCTIONS
+
+Complete ultrasound today. I will call patient with results and possible next steps."
