@@ -61,6 +61,3 @@ The original ACI-Bench dataset:
   year = {2023}
 }
 ```
-
-## Contact
-Lize de Wet, GitHub: LizeDeWet
