@@ -22,7 +22,7 @@ To evaluate model resilience to imperfect ASR transcription, an ASR-degraded ver
 **Process:**
 1. **Text-to-Speech (TTS):** Microsoft Azure Text-to-Speech was used to convert the original ACI-Bench text dialogues into synthetic audio.
 2. **Automatic Speech Recognition (ASR):** The generated audio was transcribed using OpenAI Whisper, introducing ASR-style errors.
-3. **Data Structure:** Each ASR transcript corresponds to its original dialogue ID.
+3. **Data Structure:** Each ASR transcript corresponds to its original dialogue ID and this dataset has the exact same structure as the original.
 
 ## Repository Structure
 
@@ -46,17 +46,6 @@ To evaluate model resilience to imperfect ASR transcription, an ASR-degraded ver
             - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}.csv
             - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}_metadata.csv
 - README.md
-
-├── data/
-
-├── original/ # Unmodified ACI-Bench dialogues + summaries
-
-├── asr_degraded/ # Whisper-transcribed dialogues with ASR errors
-
-├── audio/ # (Optional) Azure TTS audio files
-
-└── README.md
-
 
 ## Citation
 The original ACI-Bench dataset:
