@@ -20,7 +20,6 @@ The original dataset files are located in:
 
 /original/
 
----
 
 ### 2. ASR-Degraded Variant (Created for Further Research)
 To evaluate model resilience to imperfect ASR transcription, an ASR-degraded version of the dialogue transcripts was created.
@@ -34,7 +33,6 @@ The ASR transcripts are located in:
 
 /asr_degraded/
 
----
 
 ## Repository Structure
 
@@ -45,13 +43,12 @@ The ASR transcripts are located in:
 ├── audio/ # (Optional) Azure TTS audio files
 └── metadata/ # (Optional) Supporting files or mappings
 
----
 
 ## Citation
 The original ACI-Bench dataset:
 
 Aci-bench: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation". Wen-wai Yim, Yujuan Fu, Asma Ben Abacha, Neal Snider, Thomas Lin, Meliha Yetisgen. Submitted to Nature Scientific Data, 2023. https://www.nature.com/articles/s41597-023-02487-3
 
-Contact
+## Contact
 Lize de Wet
 GitHub: LizeDeWet
