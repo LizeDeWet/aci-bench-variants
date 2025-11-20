@@ -38,17 +38,30 @@ The ASR transcripts are located in:
 
 .
 ├── README.md
+
 ├── original/ # Unmodified ACI-Bench dialogues + summaries
+
 ├── asr_degraded/ # Whisper-transcribed dialogues with ASR errors
+
 ├── audio/ # (Optional) Azure TTS audio files
+
 └── metadata/ # (Optional) Supporting files or mappings
 
 
 ## Citation
 The original ACI-Bench dataset:
 
-Aci-bench: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation". Wen-wai Yim, Yujuan Fu, Asma Ben Abacha, Neal Snider, Thomas Lin, Meliha Yetisgen. Submitted to Nature Scientific Data, 2023. https://www.nature.com/articles/s41597-023-02487-3
+```
+@article{aci-bench,
+  author = {Wen{-}wai Yim and
+                Yujuan Fu and
+                Asma {Ben Abacha} and
+                Neal Snider and Thomas Lin and Meliha Yetisgen},
+  title = {ACI-BENCH: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation},
+  journal = {Nature Scientific Data},
+  year = {2023}
+}
+```
 
 ## Contact
-Lize de Wet
-GitHub: LizeDeWet
+Lize de Wet, GitHub: LizeDeWet
