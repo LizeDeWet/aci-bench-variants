@@ -28,23 +28,23 @@ To evaluate model resilience to imperfect ASR transcription, an ASR-degraded ver
 
 - data/
     - data_corrected/
-        - src_experiment_data/
-            - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}.csv
-            - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}_metadata.csv
         - challenge_data/
             - {train_aci,valid_aci,test1_aci,test2_aci,test3_aci}_{asrcorr,asr}.csv
             - {train_aci,valid_aci,test1_aci,test2_aci,test3_aci}_{asrcorr,asr}_metadata.csv
             - {train_virtscribe,valid_virtscribe,test1_virtscribe,test2_virtscribe,test3_virtscribe}_{humantrans,asr}.csv
             - {train_virtscribe,valid_virtscribe,test1_virtscribe,test2_virtscribe,test3_virtscribe}_{humantrans,asr}_metadata.csv
+        - src_experiment_data/
+            - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}.csv
+            - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}_metadata.csv
     - data_uncorrected/
-        - src_experiment_data/
-            - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}.csv
-            - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}_metadata.csv
         - challenge_data/
             - {train_aci,valid_aci,test1_aci,test2_aci,test3_aci}_{asrcorr,asr}.csv
             - {train_aci,valid_aci,test1_aci,test2_aci,test3_aci}_{asrcorr,asr}_metadata.csv
             - {train_virtscribe,valid_virtscribe,test1_virtscribe,test2_virtscribe,test3_virtscribe}_{humantrans,asr}.csv
             - {train_virtscribe,valid_virtscribe,test1_virtscribe,test2_virtscribe,test3_virtscribe}_{humantrans,asr}_metadata.csv
+        - src_experiment_data/
+            - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}.csv
+            - {train,valid,clinicalnlptaskB_test1,clinicalnlp_taskC_test2,clef_taskC_test3}_metadata.csv
 - README.md
 
 ├── data/
